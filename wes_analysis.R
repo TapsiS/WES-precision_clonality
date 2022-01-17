@@ -1,3 +1,5 @@
+#' Scripts to process scDNA data
+#' These snipetts were created with the help of the following contributors: Tapsi Kumar, Sahil Seth & Mingchu Xu.
 
 # load libraries ----------------------------------------------------------------------------------------------------
 library(pacman)
