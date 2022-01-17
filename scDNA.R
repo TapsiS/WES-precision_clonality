@@ -1,3 +1,6 @@
+#' Scripts to process scDNA data
+#' These snipetts were created with the help of the following contributors: Darlan Minussi, Yiyun lin, Yuheui from Navinlab.
+
 # load directories ----
 # ****************** --------------------
 rm(list = ls()) 
