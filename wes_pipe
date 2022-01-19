@@ -1,4 +1,6 @@
-WES preprocessing
+
+#' Scripts to process WES data
+#' These snipetts were provided by John Zhang lab at MDACC.
 
 
 Somatic SNPs are called using   path/mutect/1.1.4/muTect-1.1.4.jar
